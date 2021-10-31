@@ -19,6 +19,13 @@
 <div style = "display: inline_block"> <br>
   <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+</div>
+
+</div>
+<div style = "display: inline_block"> <br>
+  <img align = "center" height = "30" width = "150" src = "https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align = "center" height = "30" width = "150" src = "https://aleen42.github.io/badges/src/photoshop.svg">
 </div>
   
   ##
