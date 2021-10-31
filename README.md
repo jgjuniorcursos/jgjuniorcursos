@@ -3,7 +3,7 @@
 
 - 🐍 Programo em Python
 - 👨‍💻 Estudo KivyMD e SQL
-- 👯 Voluntariado: Ficha de APH Digital.
+- 🤝 Voluntariado: Ficha de APH Digital.
 - 💬 Perguntas a vontade...
 - 📫 Me envia sua mensagem por jgjuniorcursos@gmail.com
 - 😄 Meu propósito é mudar o mundo!
