@@ -1,4 +1,5 @@
-### Olá pessoal eu sou "jgjunior", entusiasta e autodidata de tecnologia!
+# Olá pessoal eu sou o jgjunior!
+## Entusiasta e autodidata de tecnologia!
 
 
 - 🐍 Programo em Python
@@ -12,11 +13,15 @@
 
 <div align = "center">
   <a href="https://github.com/jgjunior">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=jgjuniorcursos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jgjuniorcursos&layout=compact&langs_count=7&theme=dracula" />
+  <img align = "left" height = "165em" src = "https://github-readme-stats.vercel.app/api?username=jgjuniorcursos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img align = "right" height = "165em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jgjuniorcursos&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style = "display: inline_block"> <br>
   <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+
+## Banco de dados
+</div>
+<div style = "display: inline_block"> <br>
   <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   
