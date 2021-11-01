@@ -11,7 +11,7 @@
 - ⚡ Fato curioso: Ainda não fui a lua!
 -->
 
-![Goku.gif](https://github.com/jgjuniorcursos/jgjuniorcursos/blob/main/goku.gif)
+![Goku.gif](https://github.com/jgjuniorcursos/jgjuniorcursos/blob/main/gokuevegeta.gif)
 
 <div align = "center">
   <a href="https://github.com/jgjunior">
