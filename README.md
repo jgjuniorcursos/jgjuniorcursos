@@ -9,7 +9,7 @@
 - 📫 Me envia sua mensagem por jgjuniorcursos@gmail.com
 - 😄 Meu propósito é mudar o mundo!
 - ⚡ Fato curioso: Ainda não fui a lua!
--->
+- 📺 Nostalgia: DragonBallZ
 
 ![Goku.gif](https://github.com/jgjuniorcursos/jgjuniorcursos/blob/main/gokuevegeta.gif)
 
