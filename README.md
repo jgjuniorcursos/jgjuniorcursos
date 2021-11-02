@@ -1,5 +1,5 @@
 # Olá pessoal eu sou o jgjunior!
-## Entusiasta e autodidata de tecnologia!
+## *Entusiasta e autodidata de tecnologia!*
 
 
 - 🐍 Programo em Python
