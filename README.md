@@ -6,7 +6,7 @@
 - 👨‍💻 Estudo KivyMD e SQL
 - 🤝 Voluntariado: Ficha de APH Digital.
 - 💬 Perguntas a vontade...
-- 📫 Me envia sua mensagem por jgjuniorcursos@gmail.com
+- 📫 Me envia sua mensagem por jgjunior.dev@gmail.com
 - 😄 Meu propósito é mudar o mundo!
 - ⚡ Fato curioso: Ainda não fui a lua!
 - 📺 Nostalgia: DragonBallZ
